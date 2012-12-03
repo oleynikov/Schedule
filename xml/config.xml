@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<param	name="xmlUrl"	value="xml/schedule.xml"	title="Файл расписания" />
+	<param	name="backgroundZero"	value="0xF0FFEC"	title="Фон шапки" />
+	<param	name="backgroundOne"	value="0xFDF7F1"	title="Фон нечетных строк" />
+	<param	name="backgroundTwo"	value="0xF1F9FD"	title="Фон четных строк" />
+	<param	name="textFont"	value="Tahoma"	title="Гарнитура шрифта" />
+	<param	name="textColor"	value="0x000000"	title="Цвет текста" />
+	<param	name="textSize"	value="40"	title="Размер текста" />
+	<param	name="itemHeight"	value="100"	title="Высота строки" />
+	<param	name="lineAutoHeight"	value="5"	title="Автоподбор высоты строки" />
+	<param	name="itemsSpacer"	value="5"	title="Расстояние между строками" />
+	<param	name="scrollSpeed"	value="0.5"	title="Скорость прокрутки" />
+	<param	name="scrollPause"	value="1"	title="Счетчик паузы" />
+	<param	name="scrollPauseDelay"	value="500"	title="Время паузы" />
+</config>

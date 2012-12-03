@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+	<schedule lesson="2" date="11.05.2011" time="12:00:20">
+		<item class="7а" lesson="История" room="365" replace="0" />
+		<item class="7б" lesson="Химия" room="105" replace="1" />
+		<item class="7в" lesson="Литература" room="305" replace="0" />
+		<item class="7г" lesson="Физика" room="345" replace="0" />
+		<item class="8а" lesson="Биология" room="306" replace="0" />
+		<item class="8б" lesson="Труд" room="105" replace="0" />
+		<item class="8в" lesson="Информатика" room="215" replace="1" />
+		<item class="8г" lesson="Литература" room="505" replace="0" />
+		<item class="8д" lesson="Биология" room="305" repla/ce="0" />
+		<item class="9а" lesson="Черчение" room="355" replace="1" />
+		<item class="9б" lesson="ОБЖ" room="305" replace="0" />
+		<item class="9в" lesson="Биология" room="335" replace="0" />
+		<item class="10а" lesson="Информатика" room="305" replace="1" />
+		<item class="10б" lesson="Информатика" room="105" replace="0" />
+		<item class="10в" lesson="Информатика" room="305" replace="0" />
+		<item class="11а" lesson="Информатика" room="335" replace="1" />
+	</schedule>
